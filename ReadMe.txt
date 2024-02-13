@@ -1,0 +1,1 @@
+This repository contains the website project for the IMED 265 class at Harrisburg University
