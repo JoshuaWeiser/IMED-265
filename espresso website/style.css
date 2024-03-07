@@ -1,0 +1,47 @@
+body {
+    background-image: url(assets/brown-cafe-coffee-coffee-beans-preview.jpg);
+    width: auto;
+    background-size: contain;
+}
+
+.navlink {
+    color: #f5e6da;
+    background-color: #331a06;
+    padding: 15px;
+    text-align: right;
+}
+
+h3 {
+    color: #f5e6da;
+    background-color: #331a06;
+    padding: 15px;
+    margin-bottom: 25px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+h2 {
+    color: #f5e6da;
+    background-color: #331a06;
+    padding: 15px;
+}
+
+
+.back {
+    color: #f5e6da;
+    background-color: #331a06;
+    padding: 10px;
+    margin-left: 7%;
+}
+
+p {
+    color: #8f6849;
+    background-color: white;
+    padding: 15px;
+}
+
+img {
+    margin-top: 15px;
+    width: auto;
+    height: 45%;
+}
