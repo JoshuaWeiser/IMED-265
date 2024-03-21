@@ -16,6 +16,16 @@ h3 {
     padding: 5px;
     border: 1px black;
     border-radius: 15px;
+    margin-bottom: 25px;
+}
+
+h3:hover {
+    color: #f5e6da;
+    background-color: rgb(69,48,28);
+    padding: 5px;
+    border: 1px black;
+    border-radius: 15px;
+    margin-bottom: 25px;
 }
 
 h2 {
