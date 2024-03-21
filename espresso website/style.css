@@ -6,30 +6,35 @@ body {
 
 .navlink {
     color: #f5e6da;
-    background-color: #331a06;
     padding: 15px;
     text-align: right;
 }
 
 h3 {
     color: #f5e6da;
-    background-color: #331a06;
-    padding: 15px;
-    margin-bottom: 25px;
-    margin-left: 5%;
-    margin-right: 5%;
+    background-color: rgb(42,29,17,.9);
+    padding: 5px;
+    border: 1px black;
+    border-radius: 15px;
 }
 
 h2 {
     color: #f5e6da;
-    background-color: #331a06;
     padding: 15px;
+    background-color: rgb(42,29,17,.9);
+    border-radius: 15px;
 }
 
+h1 {
+    color: #f5e6da;
+    background-color: rgb(42,29,17,.9);
+    padding: 5px;
+    border: 1px black;
+    border-radius: 15px;
+}
 
 .back {
     color: #f5e6da;
-    background-color: #331a06;
     padding: 10px;
     margin-left: 7%;
 }
@@ -38,10 +43,11 @@ p {
     color: #8f6849;
     background-color: white;
     padding: 15px;
+    border-radius: 15px;
 }
 
 img {
-    margin-top: 15px;
-    width: 40%;
-    height: auto;
+    width: 100%;
+    border-radius: 15px;
+    padding: 2px;
 }
