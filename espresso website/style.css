@@ -62,3 +62,11 @@ img {
     padding: 2px;
     margin-top: 2%;
 }
+
+b {
+    color: #f5e6da;
+    background-color: rgb(42,29,17,.9);
+    padding: 5px;
+    border: 1px black;
+    border-radius: 15px;
+    font-size: 10px;
